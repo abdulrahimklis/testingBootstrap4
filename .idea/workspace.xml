@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc085064-5755-4e0e-8677-d5ec89acc605" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/band.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/band.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startup.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/band.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/band.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/startup.html" afterPath="$PROJECT_DIR$/startup.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,12 +27,12 @@
       <file leaf-file-name="startup.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/startup.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="176" column="24" lean-forward="false" selection-start-line="176" selection-start-column="24" selection-end-line="176" selection-end-column="24" />
+            <state relative-caret-position="204">
+              <caret line="46" column="162" lean-forward="false" selection-start-line="46" selection-start-column="162" selection-end-line="46" selection-end-column="162" />
               <folding>
-                <element signature="e#4947#4954#0" expanded="true" />
-                <element signature="e#4979#4986#0" expanded="true" />
-                <element signature="e#8940#8946#0" expanded="true" />
+                <element signature="e#4908#4915#0" expanded="true" />
+                <element signature="e#4940#4947#0" expanded="true" />
+                <element signature="e#8901#8907#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,18 +149,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510909569301</updated>
-      <workItem from="1510909573043" duration="38977000" />
+      <workItem from="1510909573043" duration="39864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38977000" />
+    <option name="totallyTimeSpent" value="39864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13717848" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13717848" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -204,9 +201,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1258">
           <caret line="74" column="45" lean-forward="false" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
-          <folding>
-            <element signature="e#4233#4239#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -236,12 +231,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/startup.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="176" column="24" lean-forward="false" selection-start-line="176" selection-start-column="24" selection-end-line="176" selection-end-column="24" />
+        <state relative-caret-position="204">
+          <caret line="46" column="162" lean-forward="false" selection-start-line="46" selection-start-column="162" selection-end-line="46" selection-end-column="162" />
           <folding>
-            <element signature="e#4947#4954#0" expanded="true" />
-            <element signature="e#4979#4986#0" expanded="true" />
-            <element signature="e#8940#8946#0" expanded="true" />
+            <element signature="e#4908#4915#0" expanded="true" />
+            <element signature="e#4940#4947#0" expanded="true" />
+            <element signature="e#8901#8907#0" expanded="true" />
           </folding>
         </state>
       </provider>
